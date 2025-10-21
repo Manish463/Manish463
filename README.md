@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Manish Kumar Sharma</h1>
 
-<p align="center">
+<h3 align="center">
   🚀 Full-Stack Web Developer | 💡 Problem Solver | ⚙️ Tech Explorer
-</p>
+</h3>
 
 ---
 
@@ -43,21 +43,55 @@ Currently improving my backend architecture skills and exploring **scalable depl
 
 ---
 
-### 📦 Featured Projects
+### 📦 Featured Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**PassOP**](https://github.com/Manish463/PassOP) | A responsive password manager that securely stores passwords locally | React, Tailwind, LocalStorage |
-| [**Bitlink**](https://github.com/Manish463/bitlinks) | It is a URL shortner which shorts long and messy url in short and clean URL | Next.js, Tailwind |
+#### 🔐 [PassOP](https://github.com/Manish463/PassOP)
+> A responsive password manager that securely stores passwords locally on your device — ensuring full privacy and accessibility without cloud storage.  
+
+**✨ Features:**  
+- Add, view, and delete saved passwords  
+- Fully responsive across devices  
+- Data stored locally using browser storage  
+
+**🧰 Tech Stack:**  
+`React` · `TailwindCSS` · `LocalStorage`  
+
+**🌐 Live Demo:**  
+👉 [passop.vercel.app](https://passop.vercel.app)
 
 ---
 
-### 📊 GitHub Stats
+#### 🔗 [Bitlink](https://github.com/Manish463/bitlinks)
+> A fast, clean, and minimal URL shortener that converts long URLs into neat, shareable links with just one click.  
+
+**✨ Features:**  
+- Instant URL shortening  
+- Copy-to-clipboard functionality  
+- Simple, elegant UI  
+
+**🧰 Tech Stack:**  
+`Next.js` · `TailwindCSS`  
+
+**🌐 Live Demo:**  
+👉 [bitlink.vercel.app](https://bitlink.vercel.app)
+
+---
+
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manish463&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish463&layout=compact&theme=tokyonight" height="165" />
 </p>
+
+---
+
+### 🤝 Let's Connect
+
+🔗 Portfolio: [manish-portfolio-tan.vercel.app](https://manish-portfolio-tan.vercel.app/)  
+💼 LinkedIn: [Manish Kumar Sharma](https://linkedin.com/in/manish-kumar-sharma-97b995387)  
+📧 Email: [mks25022025@gmail.com](mailto:mks25022025@gmail.com)  
+🐱 GitHub: [Manish463](https://github.com/Manish463)
 
 ---
 

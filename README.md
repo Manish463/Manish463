@@ -57,7 +57,7 @@ Currently improving my backend architecture skills and exploring **scalable depl
 `React` · `TailwindCSS` · `LocalStorage`  
 
 **🌐 Live Demo:**  
-👉 [passop.vercel.app](https://passop.vercel.app)
+👉 [passop.vercel.app](https://passop-by-manish.netlify.app/)
 
 ---
 

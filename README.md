@@ -21,7 +21,7 @@ Currently improving my backend architecture skills and exploring **scalable depl
 
 #### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,ejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,ejs" />
 </p>
 
 #### ⚙️ Backend
@@ -38,7 +38,7 @@ Currently improving my backend architecture skills and exploring **scalable depl
 
 #### 🧰 Tools & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify" />
 </p>
 
 ---
